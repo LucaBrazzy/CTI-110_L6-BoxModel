@@ -1,0 +1,50 @@
+.header {
+    color : #BC3E44;
+    Margin: 20px;
+    font-size: 22px;
+
+}
+
+.text {
+    color : #19D219;
+    Margin: 20px;
+    font-size: 18px;
+    width: 300px;
+    height: 175px;
+    border-radius: 15px;
+    border: 5px solid #BC3E44;
+}
+
+.feats {
+    color : #EED942;
+    Margin: 30px;
+    font-size: 18px;
+    border: 3px;
+}
+body {
+    background-color: #C15E97;
+    width: 300px;
+    height: 150px;
+    padding: 20px;
+    border: 5px
+}
+#shanks {
+    color: red;
+    font-family:cursive
+}
+
+#kaido {
+    color: blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#Luffy {
+    color: orangered;
+    font-family:fantasy;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
